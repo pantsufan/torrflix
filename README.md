@@ -10,4 +10,4 @@ npm install webtorrent-cli -g
 - [MPV Video Player](https://mpv.io/) (Can change VLC by editing the app.py)
 
 # Demo:
-[![ezgif.com-gif-makerfc55088c1bc13d17.gif](https://s7.gifyu.com/images/ezgif.com-gif-makerfc55088c1bc13d17.gif)](https://gifyu.com/image/cN2H)
+[![ezgif.com-gif-maker17ecd2e4acbe9dd67.gif](https://s7.gifyu.com/images/ezgif.com-gif-maker17ecd2e4acbe9dd67.gif)](https://gifyu.com/image/cNSh)
